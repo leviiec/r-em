@@ -9,12 +9,21 @@
 
 - Thử chuyển các chuỗi hex này thành cái gì thử thui nào
    ``47414C46h`` ->``GALF`` ồ ra chữ ``FLAG`` in ngược nè. Mình suy đoán là những chuỗi này sẽ in ngược maybe
+  
   ``47414C46h`` ->``GALF``->``FLAG``
+  
   ``3930342Dh``->``904-``->``-409``
+  
   ``32h``->``2``
+  
   ``75393438h``->``u948``->``849u``
+  
   ``6A326F69h``->``j2oi``->``io2j``
+  
   ``66h``->``f``
+  
   ``6A736C6Bh``->``jslk``->``klsj``
+  
   ``6C6B34h``->``lk4``->``4kl``
+  
 - Ghép các chuỗi ta được flag: ``FLAG-4092849uio2jfklsj4kl``
