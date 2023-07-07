@@ -8,7 +8,7 @@
 ![image](https://github.com/leviiec/r-em/assets/128345171/7fce679c-c9b3-4b6b-8681-388b03855d42)
 
 - Thử chuyển các chuỗi hex này thành cái gì thử thui nào
-- ``47414C46h`` ->``GALF`` ồ ra chữ ``FLAG`` in ngược nè. Mình suy đoán là những chuỗi này sẽ in ngược maybe
+   ``47414C46h`` ->``GALF`` ồ ra chữ ``FLAG`` in ngược nè. Mình suy đoán là những chuỗi này sẽ in ngược maybe
   ``47414C46h`` ->``GALF``->``FLAG``
   ``3930342Dh``->``904-``->``-409``
   ``32h``->``2``
